@@ -31,6 +31,5 @@ STEP 4 - Lastly, Open Powershell -> Run following commands and edit your host fi
 - cd driver
 - cd etc
 - notepad.exe hosts
-
-
-
+- Add your xyz.com below this
+![Screenshot from 2023-04-20 23-16-14](https://user-images.githubusercontent.com/60013210/233446896-92acffbc-85f3-4d6f-ae15-150db3770dd1.png)
