@@ -23,7 +23,6 @@ STEP 3 - Now, Run basic commands.
 - kubectl get pods --all-namespaces -l app.kubernetes.io/name=ingress-nginx
 - kubectl apply -f service.yaml
 - kubectl apply -f ingress.yaml
-- kubectl get ing
 - kubectl get ing -n ingress-nginx
 
 STEP 4 - Lastly, Open Powershell -> Run following commands and edit your host file.
