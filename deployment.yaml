@@ -18,3 +18,5 @@ spec:
         image: amarjotsingh/amarjotsinghk8s
         ports:
         - containerPort: 8000
+
+#file
