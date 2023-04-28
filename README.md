@@ -1,4 +1,4 @@
-The NGINX Ingress Controller for Kubernetes works with the NGINX webserver (as a proxy).
+#The NGINX Ingress Controller for Kubernetes works with the NGINX webserver (as a proxy).
 
 
 COMMANDS TO FOLLOW: - (WITH USING NGINX Ingress Controller)
