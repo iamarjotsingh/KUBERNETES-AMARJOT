@@ -1,4 +1,7 @@
-COMMANDS TO FOLLOW: - (WITHOUT USING MINIKUBE)
+The NGINX Ingress Controller for Kubernetes works with the NGINX webserver (as a proxy).
+
+
+COMMANDS TO FOLLOW: - (WITH USING NGINX Ingress Controller)
 
 
 STEP 1 - Change your Kubectl config to docker desktop.
