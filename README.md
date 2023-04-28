@@ -10,7 +10,7 @@ STEP 1 - Change your Kubectl config to docker desktop.
 
 
 
-STEP 2 - Applying ingress-nginx server to proceed.
+STEP 2 - Applying ingress-nginx Controller to proceed.
 
 - kubectl apply -f https://raw.githubusercontent.com/kubernetes/ingress-nginx/controller-v1.0.0/deploy/static/provider/cloud/deploy.yaml
 
